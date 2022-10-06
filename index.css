@@ -1,0 +1,72 @@
+
+body{
+  background-image: url(immagini/background.jpg);
+  background-size:100%;
+
+
+
+
+  }
+
+
+.contenitore{
+  width: 750px;
+  margin: auto;
+  text-align: center;
+  color: lawngreen;
+}
+
+
+
+img{
+  width: 20%;
+  }
+
+ .row{
+   width: 750px;
+   margin: auto;
+   text-align: center;
+   background-color: lawngreen;
+   padding: 1%;
+
+
+
+
+ }
+
+ .Monopattinio{
+   display: inline-block;
+ }
+
+div{
+  width: 750px;
+  margin: auto;
+  color: white;
+
+}
+
+#linea1{
+  background-color: orange;
+  height: 20px;
+  border-radius: 4px;
+  width: 32%;
+  margin: 3px;
+}
+
+#linea2{
+  background-color: lawngreen;
+  height: 20px;
+  border-radius: 4px;
+  width: 55%;
+  margin: 3px;
+}
+
+#linea3{
+
+  background-color: indianred;
+  height: 20px;
+  border-radius: 4px;
+  width: 20%;
+  margin: 3px;
+
+}
